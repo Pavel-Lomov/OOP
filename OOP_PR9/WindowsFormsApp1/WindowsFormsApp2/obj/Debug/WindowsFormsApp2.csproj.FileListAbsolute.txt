@@ -1,0 +1,9 @@
+D:\ИС-19\Грисман С.С\2 КУРС\ООП\ПР9\WindowsFormsApp1\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+D:\ИС-19\Грисман С.С\2 КУРС\ООП\ПР9\WindowsFormsApp1\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+D:\ИС-19\Грисман С.С\2 КУРС\ООП\ПР9\WindowsFormsApp1\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+D:\ИС-19\Грисман С.С\2 КУРС\ООП\ПР9\WindowsFormsApp1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+D:\ИС-19\Грисман С.С\2 КУРС\ООП\ПР9\WindowsFormsApp1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+D:\ИС-19\Грисман С.С\2 КУРС\ООП\ПР9\WindowsFormsApp1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+D:\ИС-19\Грисман С.С\2 КУРС\ООП\ПР9\WindowsFormsApp1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+D:\ИС-19\Грисман С.С\2 КУРС\ООП\ПР9\WindowsFormsApp1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+D:\ИС-19\Грисман С.С\2 КУРС\ООП\ПР9\WindowsFormsApp1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
